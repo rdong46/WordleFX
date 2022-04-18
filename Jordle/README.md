@@ -1,9 +1,13 @@
 To run the application, make sure to complile each of the file.
 
-Here are the instructions to complile the javafx program: 
+For the java file Words.java and Status.java, you will only need to run:
+**javac Filename.java** to compile.
 
-To compile a javafx program, run this command:
+Here are the instructions to complile the javafx files: 
+
+To compile a javafx files, run this command:
 **javac --module-path javafx-sdk-11.0.2/lib/ --add- modules=javafx.controls FileName.java**
+Do this for the rest of the files.
 
 After compliling, run the Jordle.java file to run the program:
 To run a javafx program, run this command:
