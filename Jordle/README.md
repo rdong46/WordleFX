@@ -11,7 +11,7 @@ Do this for the rest of the files.
 
 After compliling, run the Jordle.java file to run the program:
 To run a javafx program, run this command:
-**java --module-path javafx-sdk-11.0.2/lib/ --add-modules=javafx.controls FileName.java**
+**java --module-path javafx-sdk-11.0.2/lib/ --add-modules=javafx.controls FileName**
 
 **Modify the module path if your javafx download is not located in the same folder.**
 
